@@ -1,0 +1,9 @@
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\bin\Debug\FelipeFormsBanco.exe.config
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\bin\Debug\FelipeFormsBanco.exe
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\bin\Debug\FelipeFormsBanco.pdb
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\obj\Debug\FelipeFormsBanco.csprojResolveAssemblyReference.cache
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\obj\Debug\FelipeFormsBanco.Form2.resources
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\obj\Debug\FelipeFormsBanco.Properties.Resources.resources
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\obj\Debug\FelipeFormsBanco.csproj.GenerateResource.Cache
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\obj\Debug\FelipeFormsBanco.exe
+c:\users\1144002852\documents\visual studio 2015\Projects\FelipeFormsBanco\FelipeFormsBanco\obj\Debug\FelipeFormsBanco.pdb
